@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #181F32;
+    color: #fdfffc;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background: #EAE3DB;
+
+    color: black;
+    border-style: none;
+
+}
+.roger{
+    background-color:#647299;
+
+}
+.laal{
+    background-color: red;
+}
+
